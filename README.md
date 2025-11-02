@@ -8,7 +8,7 @@
   </p>
 
   <p>
-    <strong><a href="./README.zh-CN.md">🇨🇳中文</a></strong>  | <strong>🇬🇧English</strong>
+    <strong><a href="./README.CN.md">🇨🇳中文</a></strong>  | <strong>🇬🇧English</strong>
   </p>
 
   <p>
